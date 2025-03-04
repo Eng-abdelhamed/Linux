@@ -3,10 +3,10 @@
 
 # Syntax 
 ./cp source_file destination_file
--
+
 source_file: The file to be copied.
 destination_file: The file where the copied content will be stored.
--
+
 source_file: The file to be copied.
 destination_file: The file where the copied content will be stored.
 
