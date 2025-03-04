@@ -1,3 +1,10 @@
-### First Source Code 
-CP -> copy files syntax [cp source destination] \n
-CP: create a copy from a given source file to a given destination directory
+Overview
+This program replicates the functionality of the cp command in UNIX, copying a source file to a destination file.
+
+Syntax
+bash
+Copy
+Edit
+./cp source_file destination_file
+source_file: The file to be copied.
+destination_file: The file where the copied content will be stored.
