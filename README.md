@@ -1,5 +1,5 @@
-### Command Source Code
-####  First Program  - This program replicates the functionality of the cp command in UNIX, copying a source file to a destination file.
+#####  Command Source Code
+####   First Program  - This program replicates the functionality of the cp command in UNIX, copying a source file to a destination file.
 
 # Syntax 
 ./cp source_file destination_file
