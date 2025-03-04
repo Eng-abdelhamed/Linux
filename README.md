@@ -1,4 +1,4 @@
-#####  Command Source Code CP
+# Command Source Code CP
 # Syntax 
 ./cp source_file destination_file
 
