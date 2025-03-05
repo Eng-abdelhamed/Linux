@@ -1,18 +1,25 @@
-# Command Source Code CP
-# Syntax 
-./cp source_file destination_file
+# Command Source Code CP / PWD / MV / echo
+# CP   
+-  copy the file source to destination 
+# PWD  
+-  printf the current path
+# MV   
+-  move the file to another file name or rename it
+# echo 
+- print on secreen what after echo
+
 
 source_file: The file to be copied.
 destination_file: The file where the copied content will be stored.
 
-# How It Works
-1 - Opens the source file for reading.
-2 - Creates (or truncates) the destination file for writing.
-3 - Reads data from the source file and writes it to the destination file in chunks.
-4 - Closes both files after copying.
-
 # Compilation
- gcc cp.c -o cp
+### 1-gcc cp.c -o cp
+### 2-gcc mv.c -o mv
+### 3-gcc PWD.c -o pwd
+### 4-gcc echo.c -o echo
 
-# Error Handling
-If the source file does not exist, an error message is displayed.
+# Syntax 
+### ./cp source_file destination_file
+### ./cp source_file destination_file
+### ./cp source_file destination_file
+### ./cp source_file destination_file
